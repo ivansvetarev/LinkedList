@@ -169,5 +169,7 @@ int main()
 	lstF.push_back(23.5);
 	cout << lstF[0];
 	lstF.pop_back();
+	lstF.push_back(23);
+
 	return 0;
 }
